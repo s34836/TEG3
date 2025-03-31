@@ -24,3 +24,6 @@ chat_placeholder: Hi, how can I help you?
 # Advanced Settings
 temperature: 0.7      # Controls randomness of responses (0.0-1.0)
 max_tokens: 4096      # Maximum tokens in completion (null = no limit)
+
+# Backend API URL
+api_url: https://backend-243808292936.europe-central2.run.app/api/chat
